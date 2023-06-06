@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Simon-Game/static/css/main.96c55f94.css",
-    "main.js": "/github.io/Simon-Game/static/js/main.b69b22cb.js",
-    "index.html": "/github.io/Simon-Game/index.html",
-    "main.96c55f94.css.map": "/github.io/Simon-Game/static/css/main.96c55f94.css.map",
-    "main.b69b22cb.js.map": "/github.io/Simon-Game/static/js/main.b69b22cb.js.map"
+    "main.css": "/Simon-Game/static/css/main.96c55f94.css",
+    "main.js": "/Simon-Game/static/js/main.b69b22cb.js",
+    "index.html": "/Simon-Game/index.html",
+    "main.96c55f94.css.map": "/Simon-Game/static/css/main.96c55f94.css.map",
+    "main.b69b22cb.js.map": "/Simon-Game/static/js/main.b69b22cb.js.map"
   },
   "entrypoints": [
     "static/css/main.96c55f94.css",
